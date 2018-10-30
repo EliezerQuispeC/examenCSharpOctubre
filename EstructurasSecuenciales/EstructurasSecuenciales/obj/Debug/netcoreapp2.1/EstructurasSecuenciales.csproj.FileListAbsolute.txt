@@ -1,0 +1,11 @@
+C:\Users\eliez\source\repos\EstructurasSecuenciales\EstructurasSecuenciales\obj\Debug\netcoreapp2.1\EstructurasSecuenciales.csprojAssemblyReference.cache
+C:\Users\eliez\source\repos\EstructurasSecuenciales\EstructurasSecuenciales\obj\Debug\netcoreapp2.1\EstructurasSecuenciales.csproj.CoreCompileInputs.cache
+C:\Users\eliez\source\repos\EstructurasSecuenciales\EstructurasSecuenciales\obj\Debug\netcoreapp2.1\EstructurasSecuenciales.AssemblyInfoInputs.cache
+C:\Users\eliez\source\repos\EstructurasSecuenciales\EstructurasSecuenciales\obj\Debug\netcoreapp2.1\EstructurasSecuenciales.AssemblyInfo.cs
+C:\Users\eliez\source\repos\EstructurasSecuenciales\EstructurasSecuenciales\bin\Debug\netcoreapp2.1\EstructurasSecuenciales.deps.json
+C:\Users\eliez\source\repos\EstructurasSecuenciales\EstructurasSecuenciales\bin\Debug\netcoreapp2.1\EstructurasSecuenciales.runtimeconfig.json
+C:\Users\eliez\source\repos\EstructurasSecuenciales\EstructurasSecuenciales\bin\Debug\netcoreapp2.1\EstructurasSecuenciales.runtimeconfig.dev.json
+C:\Users\eliez\source\repos\EstructurasSecuenciales\EstructurasSecuenciales\bin\Debug\netcoreapp2.1\EstructurasSecuenciales.dll
+C:\Users\eliez\source\repos\EstructurasSecuenciales\EstructurasSecuenciales\bin\Debug\netcoreapp2.1\EstructurasSecuenciales.pdb
+C:\Users\eliez\source\repos\EstructurasSecuenciales\EstructurasSecuenciales\obj\Debug\netcoreapp2.1\EstructurasSecuenciales.dll
+C:\Users\eliez\source\repos\EstructurasSecuenciales\EstructurasSecuenciales\obj\Debug\netcoreapp2.1\EstructurasSecuenciales.pdb
